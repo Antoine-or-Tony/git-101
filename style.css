@@ -2,9 +2,14 @@ body {
 	margin: 0
 	font: Helvetica;
 	font-size: 50px;
+	align-content: center;
 }
 
 img	{
 	size: 50px;
 	align-content: center;
+}
+
+p {
+	justify-content: center;
 }
